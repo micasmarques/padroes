@@ -1,0 +1,6 @@
+br\edu\ifpb\Main.class
+br\edu\ifpb\ConcreteObserver.class
+br\edu\ifpb\ObserverUser.class
+br\edu\ifpb\ConcreteGroup.class
+br\edu\ifpb\Message.class
+br\edu\ifpb\ObservableGroup.class
